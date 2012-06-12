@@ -1,4 +1,3 @@
-
                                                                 
     //   ) )         //   ) )         //   ) )         //   / / 
    //___/ /         //___/ /         ((               //   / /  
@@ -24,3 +23,21 @@ License - yet to be decided .. :-)
 For road map visit the website ...!
 
 *************************************************************************************************************
+
+External Libraries :
+
+1. OPENCV ML : http://opencv.willowgarage.com/documentation/cpp/ml._machine_learning.html
+2. MLC++     : http://www.sgi.com/tech/?/mlc
+3. ESTAR     : http://sourceforge.net/apps/trac/estar/
+
+***************************************************************************************************************
+
+Global Planning :
+
+1. RRT
+2. EGRRT
+3. A*
+4. D*
+5. E*
+
+
